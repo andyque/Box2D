@@ -17,6 +17,7 @@
 */
 
 #include <Box2D/Common/b2BlockAllocator.h>
+#include<cstring>
 #include <limits.h>
 #include <memory.h>
 #include <stddef.h>

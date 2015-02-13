@@ -18,6 +18,7 @@
 
 #include <Box2D/Collision/Shapes/b2ChainShape.h>
 #include <Box2D/Collision/Shapes/b2EdgeShape.h>
+#include<cstring>
 #include <new>
 #include <memory.h>
 
